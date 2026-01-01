@@ -1,0 +1,86 @@
+CANONICAL INSTRUCTIONS FOR INSURANCE LETTER GENERATION
+==========================================================================================
+
+1. **Header Section**: Include the company name, address, and date at the top of the letter.
+   - Example: 
+     ```
+     [Company Name]
+     [Company Address]
+     [City, State, Zip Code]
+     [Date]
+     ```
+
+2. **Subject Line**: Clearly state the purpose of the letter.
+   - Example: 
+     ```
+     Subject: [Type of Letter: Denial Letter / Coverage Decision / Request for Additional Information]
+     ```
+
+3. **Salutation**: Address the recipient by name.
+   - Example: 
+     ```
+     Dear [Recipient's Name],
+     ```
+
+4. **Claim Information**: Reference the specific insurance policy and claim number.
+   - Example: 
+     ```
+     We are writing regarding your insurance policy [Policy Number] and claim number [Claim Number].
+     ```
+
+5. **Claim Review Summary**: Briefly summarize the review process or current status of the claim.
+   - Example: 
+     ```
+     Claim Review Summary
+     --------------------
+     [For Denial Letter] We carefully reviewed your claim submission and supporting documentation.
+     [For Coverage Decision] We have completed a comprehensive review of your claim, including all documentation provided and the applicable provisions of your insurance policy.
+     [For Request for Additional Information] We are currently unable to complete our evaluation of your claim due to missing information.
+     ```
+
+6. **Coverage Determination**: Clearly state the decision regarding coverage or the information requested.
+   - Example: 
+     ```
+     Coverage Determination
+     ----------------------
+     [For Denial Letter] After evaluation, we regret to inform you that coverage cannot be extended for this claim based on policy exclusions and conditions.
+     [For Coverage Decision] Based on this review, coverage has been approved under the terms, conditions, and limitations of your policy. Any applicable deductibles or limits will apply.
+     ```
+
+7. **Your Options / Next Steps**: Outline the options available to the recipient following the denial or the next steps they should take.
+   - Example: 
+     ```
+     Your Options / Next Steps
+     --------------------------
+     [For Denial Letter] - You may request a written explanation of this decision.
+     - You may submit additional documentation for reconsideration.
+     - Appeal rights are outlined in your policy.
+     
+     [For Coverage Decision] - Payment, if applicable, will be processed in accordance with standard timelines.
+     - You will receive separate confirmation once payment is issued.
+     - Retain this letter for your records.
+     
+     [For Request for Additional Information] Please submit the requested information within the specified timeframe to avoid delays.
+     ```
+
+8. **Compliance and Regulatory Notice**: Include compliance language regarding the decision or request.
+   - Example: 
+     ```
+     Compliance and Regulatory Notice
+     This correspondence is issued in accordance with applicable insurance laws and regulations. All determinations are based on the terms, conditions, exclusions, and limitations of your policy.
+     You have the right to request policy provisions, submit additional documentation, or appeal this decision as permitted by governing law. Applicable deadlines are outlined in your policy.
+     ```
+
+9. **Contact Information**: Provide a way for the recipient to reach out with questions.
+   - Example: 
+     ```
+     If you have questions regarding this correspondence, please contact our Claims Department at [Phone Number] within thirty (30) days of receipt of this notice.
+     ```
+
+10. **Closing**: End the letter with a formal closing and the name of the department.
+    - Example: 
+      ```
+      Sincerely,
+      Claims Department
+      [Company Name]
+      ```
