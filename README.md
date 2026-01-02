@@ -69,28 +69,3 @@ Claim references
 Compliance and regulatory notices
 Appeal / reconsideration language when applicable
 Downloadable as a .txt file
-
-🧪 Example Use Cases
-
-Claims automation systems
-Internal insurance operations tooling
-QA validation of generated correspondence
-Regulatory-compliant customer communications
-LLM prompt optimization pipelines (DSPy → CrewAI)
-
-⚠️ Notes & Best Practices
-
-The canonical instruction file should be generated once (via DSPy/MIPRO) and reused.
-Lower temperature (0.2) is recommended for compliance-sensitive writing.
-This tool assists drafting—final legal review is still recommended.
-
-🚀 Future Extensions
-
-PDF / DOCX export
-Jurisdiction-specific compliance variants
-
-Audit-trail annotations
-
-Human-in-the-loop approval
-
-Multi-language support
