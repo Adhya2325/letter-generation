@@ -27,34 +27,6 @@ LLM-agnostic
 Works with OpenAI models (default: gpt-4o-mini)
 Easy to swap models via environment variables
 
-🧠 Architecture Overview
-Canonical Instructions (TXT)
-          │
-          ▼
-┌──────────────────────────┐
-│ Letter Generator Agent   │
-│ (content + logic)        │
-└──────────┬───────────────┘
-           ▼
-┌──────────────────────────┐
-│ Formatter Agent          │
-│ (structure + formatting) │
-└──────────┬───────────────┘
-           ▼
-┌──────────────────────────┐
-│ Compliance Agent         │
-│ (regulatory validation)  │
-└──────────┬───────────────┘
-           ▼
-     Final Letter Output
-
-📁 Project Structure
-.
-├── app.py
-├── canonical_insurance_letter_instructions_YYYYMMDD_HHMMSS.txt
-├── .env
-├── README.md
-
 🔐 Environment Setup
 
 Create a .env file:
